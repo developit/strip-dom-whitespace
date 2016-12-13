@@ -1,0 +1,12 @@
+{
+  "name": "strip-dom-whitespace",
+  "version": "1.0.0",
+  "description": "Traverses the DOM to strip whitespace-only Text nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": ["whitespace", "dom", "text"],
+  "author": "Jason Miller <jason@developit.ca>",
+  "license": "MIT"
+}
