@@ -1,5 +1,7 @@
 # strip-dom-whitespace
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/developit/strip-dom-whitespace.svg)](https://greenkeeper.io/)
+
 Traverses the DOM to strip whitespace-only Text nodes.
 
 This is a standalone solution to [developit/preact#445](https://github.com/developit/preact/issues/445).
